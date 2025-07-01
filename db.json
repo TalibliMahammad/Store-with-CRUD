@@ -1,0 +1,429 @@
+ 
+ {
+  "Laptop": [
+                {
+                    "id": 1,
+                    "price": 500,
+                    "description": "Lenovo IdeaPad 3 15.6\" FHD Laptop, Intel Core i5-1135G7, 8GB RAM, 256GB SSD, Windows 11 Home",
+                    "brand": "Lenovo",
+                    "category": "Laptops",
+                    "rating": 4.5,
+                    "numReviews": 1200,
+                    "countInStock": 20,
+                    "tags": [
+                        "laptop",
+                        "lenovo",
+                        "windows"
+                    ],
+                    "color": [
+                        "black",
+                        "silver"
+                    ],
+                    "title": "Lenovo IdeaPad 3 15.6 FHD Laptop",
+                    "images": [
+                        "/Electronics/Laptop/1/discount.jpg",
+                        "/Electronics/Laptop/1/61StDrmifnL._AC_SL1000_.jpg",
+                        "/Electronics/Laptop/1/71aK9fCrrJL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/1/61StDrmifnL._AC_SL1000_.jpg",
+                        "/Electronics/Laptop/1/81DIJ24IcXL._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "price": 700,
+                    "description": "HP Pavilion 15.6\" FHD Laptop, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home",
+                    "brand": "HP",
+                    "category": "Laptops",
+                    "rating": 4.6,
+                    "numReviews": 800,
+                    "countInStock": 15,
+                    "tags": [
+                        "laptop",
+                        "hp",
+                        "windows"
+                    ],
+                    "title": "HP Pavilion 15.6 FHD Laptop",
+                    "color": [
+                        "silver",
+                        "blue"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/2/71-c-l9PvuL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/2/81DSJ1RFOBL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/2/815O5zgYeeL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/2/81vcPHrt3QL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/2/81W4jjjUEiL._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "price": 700,
+                    "description": "Dell inspiron 15.6\" FHD Laptop, Intel Core i5-1135G7, 8GB RAM, 512GB SSD, Windows 11 Home",
+                    "brand": "Dell",
+                    "category": "Laptops",
+                    "rating": 4.5,
+                    "numReviews": 1000,
+                    "countInStock": 15,
+                    "tags": [
+                        "laptop",
+                        "dell",
+                        "windows"
+                    ],
+                    "title": "Dell inspiron 15.6 FHD Laptop",
+                    "color": [
+                        "black",
+                        "silver"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/3/51iP0HOhGmL._AC_SL1154_.jpg",
+                        "/Electronics/Laptop/3/41Ojhj4anYL._AC_SL1176_.jpg",
+                        "/Electronics/Laptop/3/41ovDgtEN3L._AC_SL1176_.jpg",
+                        "/Electronics/Laptop/3/51iP0HOhGmL._AC_SL1154_.jpg",
+                        "/Electronics/Laptop/3/514x0Kw6C2L._AC_SL1280_.jpg"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "price": 800,
+                    "description": "Rog strix G15 15.6\" FHD Gaming Laptop, AMD Ryzen 7 5800H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3060",
+                    "brand": "Asus",
+                    "category": "Laptops",
+                    "rating": 4.7,
+                    "numReviews": 600,
+                    "countInStock": 10,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "asus"
+                    ],
+                    "title": "Rog strix G15 15.6 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "red"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/4/71+FZDnsxzL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/4/71B8P-zlcGL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/4/71qQHyJcYNL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/4/81DvFGGcn7L._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/4/81uNIFnGHvL._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "price": 800,
+                    "description": "Asus Tuf Gaming A15 15.6\" FHD Gaming Laptop, AMD Ryzen 7 4800H, 16GB RAM, 1TB SSD, NVIDIA GeForce GTX 1660 Ti",
+                    "category": "Laptops",
+                    "brand": "Asus",
+                    "rating": 4.6,
+                    "numReviews": 700,
+                    "color": [
+                        "black",
+                        "green"
+                    ],
+                    "countInStock": 10,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "asus"
+                    ],
+                    "title": "Asus Tuf Gaming A15 15.6 FHD Gaming Laptop",
+                    "images": [
+                        "/Electronics/Laptop/5/61jmmUog-uL._AC_SL1200_.jpg",
+                        "/Electronics/Laptop/5/81kxce-AlLL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/5/611S5Rr01qL._AC_SL1200_.jpg",
+                        "/Electronics/Laptop/5/61kVr5oTyjL._AC_SL1200_.jpg",
+                        "/Electronics/Laptop/5/61pfm7s8zeL._AC_SL1200_.jpg"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "price": 900,
+                    "description": "Msi GF65 Thin 15.6\" FHD Gaming Laptop, Intel Core i7-10750H, 16GB RAM, 512GB SSD, NVIDIA GeForce GTX 1660 Ti",
+                    "brand": "Msi",
+                    "category": "Laptops",
+                    "rating": 4.5,
+                    "numReviews": 500,
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "msi"
+                    ],
+                    "title": "Msi GF65 Thin 15.6 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "red"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/6/71JqyTBiXrL._AC_SL1500_.jpg",
+                        " /Electronics/Laptop/6/71ENhUkhgKL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/6/81RNzaaQF0L._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/6/81gXYzh21eL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/6/71QIsOfN30L._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "price": 1000,
+                    "description": "msi GS66 Stealth 15.6\" FHD Gaming Laptop, Intel Core i7-10870H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3060",
+                    "brand": "Msi",
+                    "category": "Laptops",
+                    "rating": 4.8,
+                    "numReviews": 400,
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "msi"
+                    ],
+                    "title": "Msi GS66 Stealth 15.6 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "silver"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/7/71E0RStmUeL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/7/61a0wh+Wl3L._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/7/71SIDv82bKL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/7/71WNuDz-yjL._AC_SL1500_.jpg",
+                        " /Electronics/Laptop/7/81615X8v9xL._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 8,
+                    "price": 1200,
+                    "description": "msi GS66 Stealth 15.6\" FHD Gaming Laptop, Intel Core i7-10870H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3060",
+                    "brand": "Msi",
+                    "category": "Laptops",
+                    "rating": 4.8,
+                    "numReviews": 400,
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "msi"
+                    ],
+                    "title": "Msi GS66 Stealth 15.6 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "silver"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/8/71-rodEpgwL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/8/71sIbC0RXBL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/8/81LdLF+H-2L._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/8/81wyjRjpdhL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/8/81XjAzaUEbL._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 9,
+                    "price": 1300,
+                    "description": "rog stix G17 17.3\" FHD Gaming Laptop, AMD Ryzen 9 5900HX, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3080",
+                    "brand": "Asus",
+                    "category": "Laptops",
+                    "rating": 4.9,
+                    "numReviews": 300,
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "asus"
+                    ],
+                    "title": "rog stix G17 17.3 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "red"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/9/71brRpA1QXL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/9/81AKdTajCYL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/9/81BiYUV3jVL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/9/81AKdTajCYL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/9/811HCpzCfrL._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 10,
+                    "price": 1500,
+                    "description": "asus vivobook pro 16X 16\" FHD Gaming Laptop, Intel Core i9-11900H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3070",
+                    "brand": "Asus",
+                    "category": "Laptops",
+                    "rating": 4.8,
+                    "numReviews": 200,
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "asus"
+                    ],
+                    "title": "Asus vivobook pro 16X 16 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "silver"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/10/71xkVjVQDRL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/10/81SW+rPXGIL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/10/71xkVjVQDRL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/10/71P3MwynNoL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/10/81SW+rPXGIL._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 11,
+                    "price": 1500,
+                    "description": "asus zenbook pro 15 15.6\" FHD Gaming Laptop, Intel Core i9-11900H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3070",
+                    "brand": "Asus",
+                    "category": "Laptops",
+                    "rating": 4.8,
+                    "numReviews": 200,
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "asus"
+                    ],
+                    "title": "Asus zenbook pro 15 15.6 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "silver"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/11/71FsCrcFjfL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/11/71Ke05sUwuL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/11/71KYo0pvf9L._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/11/71VVFDhJxiL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/11/71OYZMbEe6L._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 12,
+                    "price": 2000,
+                    "description": "asus webook pro 16X 16\" FHD Gaming Laptop, Intel Core i9-11900H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3080",
+                    "brand": "Asus",
+                    "category": "Laptops",
+                    "rating": 4.9,
+                    "numReviews": 100,
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "asus"
+                    ],
+                    "title": "Asus webook pro 16X 16 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "silver"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/12/51cGQHaKZ0L._AC_SL1200_.jpg",
+                        "/Electronics/Laptop/12/51KY6cuwZjL._AC_SL1200_.jpg",
+                        "/Electronics/Laptop/12/61cgkJf98PL._AC_SL1200_.jpg",
+                        "/Electronics/Laptop/12/618f4OV9jmL._AC_SL1200_.jpg"
+                    ]
+                },
+                {
+                    "id": 13,
+                    "price": 2000,
+                    "description": "acer predator helios 300 15.6\" FHD Gaming Laptop, Intel Core i9-11900H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3080",
+                    "brand": "Acer",
+                    "category": "Laptops",
+                    "rating": 4.9,
+                    "numReviews": 100,
+                    "title": "acer predator helios 300 15.6 FHD Gaming Laptop",
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "acer"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/13/61Sp1H04MgL._AC_SL1000_.jpg",
+                        "/Electronics/Laptop/13/61Sp1H04MgL._AC_SL1000_.jpg",
+                        "/Electronics/Laptop/13/71WRMTVV4vL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/13/51c5dhUXKFL._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 14,
+                    "price": 2000,
+                    "description": "acer predator helios 300 15.6\" FHD Gaming Laptop, Intel Core i9-11900H, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3080",
+                    "brand": "Acer",
+                    "category": "Laptops",
+                    "rating": 4.9,
+                    "numReviews": 100,
+                    "countInStock": 5,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "acer"
+                    ],
+                    "title": "acer predator helios 300 15.6 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "red"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/14/51c5dhUXKFL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/14/61Sp1H04MgL._AC_SL1000_.jpg",
+                        "/Electronics/Laptop/14/61R58dhH1JL._AC_SL1000_.jpg",
+                        "/Electronics/Laptop/14/519sgivx8aL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/14/7515YRdlHLsL._AC_SL1000_.jpg"
+                    ]
+                },
+                {
+                    "id": 15,
+                    "price": 1800,
+                    "description": "Gigabyte Aorus 15P 15.6\" FHD Gaming Laptop, Intel Core i7-11800H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3070",
+                    "brand": "Gigabyte",
+                    "category": "Laptops",
+                    "rating": 4.7,
+                    "numReviews": 250,
+                    "countInStock": 8,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "gigabyte"
+                    ],
+                    "title": "Gigabyte Aorus 15P 15.6 FHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "gray"
+                    ],
+                    "images": [
+                        "/Electronics/Laptop/15/515YRdlHLsL._AC_SL1000_.jpg",
+                        "/Electronics/Laptop/15/71WRMTVV4vL._AC_SL1500_.jpg",
+                        "/Electronics/Laptop/15/61svAzsuPML._AC_SL1000_.jpg",
+                        "/Electronics/Laptop/15/714xSFCUYML._AC_SL1500_.jpg"
+                    ]
+                },
+                {
+                    "id": 16,
+                    "price": 2200,
+                    "description": "Razer Blade 15 Advanced 15.6\" QHD Gaming Laptop, Intel Core i7-11800H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3080",
+                    "brand": "Razer",
+                    "category": "Laptops",
+                    "rating": 4.9,
+                    "numReviews": 150,
+                    "countInStock": 7,
+                    "tags": [
+                        "laptop",
+                        "gaming",
+                        "razer"
+                    ],
+                    "title": "Razer Blade 15 Advanced 15.6 QHD Gaming Laptop",
+                    "color": [
+                        "black",
+                        "green"
+                    ],
+                    "images": [
+                        "Electronics/Laptop/16/71cey4sbuaL._AC_SL1500_.jpg",
+                        "Electronics/Laptop/16/81KEZRYtZXL._AC_SL1500_.jpg",
+                        "Electronics/Laptop/16/714m1162YsL._AC_SL1500_.jpg",
+                        "Electronics/Laptop/16/71GKXeMFy-L._AC_SL1500_.jpg"
+                    ]
+                }
+            ]
+ }

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+   <div class="modal" id="updateModal">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">×</button>
+            <img class="modal-image" id="modalImage" src="" alt="Product">
+            <form class="modal-form" id="updateForm">
+                <input type="text" class="modal-input" id="modalInput" placeholder="Enter new product name">
+                <button type="submit" class="modal-btn">Update Product</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">ModernStore</div>
+            <div class="search-container">
+                <input type="text" class="search-input" id="searchInput" placeholder="Search products...">
+            </div>
+            <button class="load-more-btn" id="loadMoreBtn">Load More</button>
+        </div>
+    </header>
+
+    <!-- Products Container -->
+    <div class="products-container">
+        <div class="products-grid" id="productsGrid">
+            <div class="loading">
+                <div class="spinner"></div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    <script src="app.js"></script>
+</body>
+
+</html>
