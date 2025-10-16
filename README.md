@@ -58,7 +58,6 @@ Includes a debounced search and smooth modal animations
 
 
 
-<img width="1461" height="697" alt="Ekran şəkli 2025-10-16 134018" src="https://github.com/user-attachments/assets/02c8e208-36d4-4777-899f-ae1af4667e3a" />
 <img width="1877" height="897" alt="Ekran şəkli 2025-10-16 140517" src="https://github.com/user-attachments/assets/6ba93746-856d-4954-9887-8dead3ce66f7" />
 <img width="1862" height="884" alt="Ekran şəkli 2025-10-16 140529" src="https://github.com/user-attachments/assets/3c918f98-62f3-41a1-8067-c4e378a95246" />
 <img width="408" height="558" alt="Ekran şəkli 2025-10-16 140545" src="https://github.com/user-attachments/assets/88384eb1-d1a7-4357-a5cd-4508f0ecafe5" />
