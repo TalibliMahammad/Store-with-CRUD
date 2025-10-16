@@ -1,4 +1,4 @@
-🛍️<h1>ModernStore<h1/>
+🛍️ModernStore
 
 ModernStore is a modern, single-page product management app built with vanilla JavaScript.
 It fetches data from the Fake Store API, displays products in a responsive grid, and allows users to search, update, delete, and view details dynamically — all without reloading the page.
